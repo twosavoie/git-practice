@@ -1,5 +1,2 @@
-This is the Master branch. "Master" has become controversial. I wonder if they'll change it.
-This is a practice for git and Github.
-This is for git branch experiment-with-branches
-This is me trying to experiment with cloning.
-This is NOT on the make-branch branch. I don't know yet how I'm supposed to know, besides the terminal, which branch I'm on. I also don't know how to access the unaffected master branch. Still working on this.
+This is the merge-branches branch.
+This is my practice in merging branches and resolving conflicts.
