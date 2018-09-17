@@ -2,4 +2,8 @@ Branch make-branch
 This is a practice for git and Github.
 This is for git branch experiment-with-branches
 This is me trying to experiment with cloning.
-So this branch is different than the master. I thought I was on this branch and I made some changes. But I must have been on the master branch because this on had the fewer lines.  I tried to switch it back and it didn't work. So now I'm making changes to this branch and see what happens. 
+So this branch is different than the master. I thought I was on this branch and I made some changes. But I must have been on the master branch because this on had the fewer lines.  I tried to switch it back and it didn't work. So now I'm making changes to this branch and see what happens.
+
+Ok, so now I've made this branch and become more comfortable switching between it and master.
+
+I've also discovered, at least with git add . that I must add and commit each branch. That's interesting. I wonder if git add -A is different. Another time...
